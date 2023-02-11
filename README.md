@@ -20,7 +20,7 @@
       <a href="https://linkedin.com/in/ahmed-bassem-3bbb6b1ba" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="azzar" height="30"/></a>
-      <a href="ahmedbassemaly@gmail.com" target="blank"><img align="center"
+      <a href="mailto:ahmedbassemaly@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="azzar" height="30"/></a>
     </p>
@@ -41,7 +41,7 @@
 <h2 align="center">About this Account</h2>
  <p align="center">
   <a href="https://github.com/ahmedbassemaly" target="blank"><img align="center" 
-     src="https://komarev.com/ghpvc/?username=1999AZZAR&style=for-the-badge&label=PROFILE+VIEWS" height="25"
+     src="https://komarev.com/ghpvc/?username=ahmedbassemaly&style=for-the-badge&label=PROFILE+VIEWS" height="25"
      alt="views count" /></a>
   </p>
  </samp>
